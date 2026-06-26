@@ -1,0 +1,175 @@
+{
+    "PartNumber": "161616",
+    "Description": "test 01",
+    "BaseUnitOfMeasure": "PCS",
+    "Quantity": "",
+    "Revision": "A",
+    "Children": [
+        {
+            "PartNumber": "800105",
+            "Description": "Test-1",
+            "Find_No": "10",
+            "Quantity": "",
+            "BaseUnitOfMeasure": "PCS",
+            "Level": 1,
+            "Children": [
+                {
+                    "PartNumber": "900109",
+                    "Description": "Test-2",
+                    "Find_No": "10",
+                    "Quantity": "",
+                    "BaseUnitOfMeasure": "PCS",
+                    "Level": 2,
+                    "Children": [
+                        {
+                            "PartNumber": "90012",
+                            "Description": "Test-3",
+                            "Find_No": "10",
+                            "Quantity": "",
+                            "BaseUnitOfMeasure": "PCS",
+                            "Level": 3,
+                            "Children": [
+                                {
+                                    "PartNumber": "90016",
+                                    "Description": "Test-4",
+                                    "Find_No": "10",
+                                    "Quantity": "",
+                                    "BaseUnitOfMeasure": "PCS",
+                                    "Level": 4,
+                                    "Children": [
+                                        {
+                                            "PartNumber": "90019",
+                                            "Description": "Test-5",
+                                            "Find_No": "10",
+                                            "Quantity": "",
+                                            "BaseUnitOfMeasure": "PCS",
+                                            "Level": 5,
+                                            "Children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PartNumber": "900106",
+            "Description": "Testing-1",
+            "Find_No": "20",
+            "Quantity": "",
+            "BaseUnitOfMeasure": "PCS",
+            "Level": 1,
+            "Children": [
+                {
+                    "PartNumber": "90010",
+                    "Description": "Testing-2",
+                    "Find_No": "10",
+                    "Quantity": "",
+                    "BaseUnitOfMeasure": "PCS",
+                    "Level": 2,
+                    "Children": [
+                        {
+                            "PartNumber": "90013",
+                            "Description": "Testing-3",
+                            "Find_No": "10",
+                            "Quantity": "",
+                            "BaseUnitOfMeasure": "PCS",
+                            "Level": 3,
+                            "Children": [
+                                {
+                                    "PartNumber": "90017",
+                                    "Description": "Testing-4",
+                                    "Find_No": "10",
+                                    "Quantity": "",
+                                    "BaseUnitOfMeasure": "PCS",
+                                    "Level": 4,
+                                    "Children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PartNumber": "900107",
+            "Description": "Tested-1",
+            "Find_No": "30",
+            "Quantity": "",
+            "BaseUnitOfMeasure": "PCS",
+            "Level": 1,
+            "Children": [
+                {
+                    "PartNumber": "90011",
+                    "Description": "Tested-2",
+                    "Find_No": "10",
+                    "Quantity": "",
+                    "BaseUnitOfMeasure": "PCS",
+                    "Level": 2,
+                    "Children": [
+                        {
+                            "PartNumber": "90014",
+                            "Description": "Tested-2",
+                            "Find_No": "10",
+                            "Quantity": "",
+                            "BaseUnitOfMeasure": "PCS",
+                            "Level": 3,
+                            "Children": [
+                                {
+                                    "PartNumber": "90018",
+                                    "Description": "Tested-1",
+                                    "Find_No": "10",
+                                    "Quantity": "",
+                                    "BaseUnitOfMeasure": "PCS",
+                                    "Level": 4,
+                                    "Children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "PartNumber": "900108",
+            "Description": "Tested-1",
+            "Find_No": "40",
+            "Quantity": "",
+            "BaseUnitOfMeasure": "PCS",
+            "Level": 1,
+            "Children": [
+                {
+                    "PartNumber": "90012",
+                    "Description": "Tested-1",
+                    "Find_No": "10",
+                    "Quantity": "",
+                    "BaseUnitOfMeasure": "PCS",
+                    "Level": 2,
+                    "Children": [
+                        {
+                            "PartNumber": "90016",
+                            "Description": "Tested-1",
+                            "Find_No": "10",
+                            "Quantity": "",
+                            "BaseUnitOfMeasure": "PCS",
+                            "Level": 3,
+                            "Children": [
+                                {
+                                    "PartNumber": "90019",
+                                    "Description": "Tested-1",
+                                    "Find_No": "10",
+                                    "Quantity": "",
+                                    "BaseUnitOfMeasure": "PCS",
+                                    "Level": 4,
+                                    "Children": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
